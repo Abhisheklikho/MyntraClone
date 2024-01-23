@@ -68,10 +68,34 @@ width: 4.rem;
             color: gray;
             text-decoration: underline;
             text-underline-offset: 2rem;
-            text-decoration-color: rgb(181, 181, 181);
+            
         text-decoration-thickness: 0.2rem;
 
        
+}
+
+.navContent .opt1 a:hover{
+text-decoration-color: rgb(255, 0, 85);
+}
+
+.navContent .opt2 a:hover {
+    text-decoration-color: #ff6513;
+}
+
+.navContent .opt3 a:hover {
+    text-decoration-color: rgb(227, 11, 123);
+}
+
+.navContent .opt4 a:hover {
+    text-decoration-color: rgb(255, 251, 35);
+}
+
+.navContent .opt5 a:hover {
+    text-decoration-color: rgb(0, 192, 199);
+}
+
+.navContent .opt6 a:hover {
+    text-decoration-color: rgb(226, 4, 255);
 }
 
  .categoryContainer{
